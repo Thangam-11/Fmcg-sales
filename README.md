@@ -1,4 +1,5 @@
-# FMCG Sales Insights Analysis :
+
+# FMCG Sales Exploratory Data Analysis (EDA)
 
 Introduction:
 

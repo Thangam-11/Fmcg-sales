@@ -1,16 +1,19 @@
 
 # FMCG Sales Exploratory Data Analysis (EDA)
 
-Introduction
+Introduction:
+
 Welcome to the FMCG Sales Exploratory Data Analysis (EDA) repository! This project aims to analyze transactional data from multiple stores across different months in the Fast-Moving Consumer Goods (FMCG) industry. The dataset contains information such as the day of the transaction, bill ID, bill amount, quantity, value, price, product group, sub-group, sub-sub-group, company, main brand, and brand.
 
-Objective
+Objective:
+
 The primary objective of this analysis is to gain insights into the sales trends, patterns, and behaviors within the FMCG sector. By exploring the dataset, we aim to answer various questions related to sales performance, product popularity, seasonal variation.
 
-Dataset
+Dataset:
+
 The dataset consists of transactional records from multiple stores, each representing a single transaction. Here's a brief overview of the columns present in the dataset:
 
-STORECODE: Unique identifier for each store
+* STORECODE: Unique identifier for each store
 MONTH: Month of the transaction
 DAY: Day of the transaction
 BILL_ID: Unique identifier for each bill
